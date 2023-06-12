@@ -11,3 +11,9 @@ git config --global user.email "your email"
 
 
 git commit -m "your message"
+
+
+# daily command 
+git add . 
+git commit -m "daily comment"
+git push origin main

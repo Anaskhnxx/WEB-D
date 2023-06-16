@@ -136,6 +136,7 @@ a:hover {
 /* serviecs section */
 .services {
     margin: 5rem;
+    padding: 30px;
 }
 
 .servicetext {
@@ -145,8 +146,9 @@ a:hover {
 
 .textsubheading {
     color: var(--primaryAccentColor);
-    letter-spacing: 0.3em;
+    letter-spacing: 0.2em;
     font-size: 1.25rem;
+    padding-top: 100px;
 
 
 }

@@ -141,6 +141,7 @@ a:hover {
 .servicetext {
     text-align: center;
     text-transform: uppercase;
+    padding-top: 100px;
 }
 
 .textsubheading {
